@@ -1,6 +1,6 @@
 {
-  "name": "Water Staked SOL",
-  "symbol": "S0XIS0",
+  "name": "Watered SOL",
+  "symbol": "BXISS0",
   "description": "Liquid staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/stsol.png",
   "external_url": "https://stake.solana.com",
