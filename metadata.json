@@ -1,6 +1,6 @@
 {
   "name": "Staked SOL",
-  "symbol": "stSOL",
+  "symbol": "stsxSOL",
   "description": "Liquid staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/stsol.png",
   "external_url": "https://stake.solana.com",
