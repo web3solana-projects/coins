@@ -1,14 +1,14 @@
 {
-  "name": "Watered SOL",
-  "symbol": "BNAISS0",
-  "description": "Liquid staking derivative for Solana validators",
-  "image": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/stsol.png",
-  "external_url": "https://stake.solana.com",
+  "name": "Nova Star",
+  "symbol": "NOVA",
+  "description": "Explosive growth potential",
+  "image": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/nova.png",
+  "external_url": "https://novastar.finance",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/stsol.png",
+        "uri": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/nova.png",
         "type": "image/png"
       }
     ],
