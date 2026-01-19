@@ -1,14 +1,14 @@
 {
-  "name": "Reserved SOL",
-  "symbol": "rSOL",
-  "description": "The community coin of Solana",
-  "image": "https://media.discordapp.net/attachments/1125212571197247548/1462711845260497056/solicon_2_7.png?ex=696f300f&is=696dde8f&hm=819c8b4fd59715d35adca8b282348bd86cfcdb3771c6d49c0d4c311c8735b1f7&=&format=webp&quality=lossless",
-  "external_url": "https://bonkcoin.com",
+  "name": "Reserved Fund",
+  "symbol": "rpSOL",
+  "description": "Illuminating the Solana ecosystem",
+  "image": "https://media.discordapp.net/attachments/1125212571197247548/1462719813347442719/solicon_2_7.png?ex=696f377b&is=696de5fb&hm=109d0c01a18b69054b0492c397c7674cb29bbbead523c589022977737ea5f758",
+  "external_url": "https://neonglow.sol",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://media.discordapp.net/attachments/1125212571197247548/1462711845260497056/solicon_2_7.png?ex=696f300f&is=696dde8f&hm=819c8b4fd59715d35adca8b282348bd86cfcdb3771c6d49c0d4c311c8735b1f7&=&format=webp&quality=lossless",
+        "uri": "https://media.discordapp.net/attachments/1125212571197247548/1462719813347442719/solicon_2_7.png?ex=696f377b&is=696de5fb&hm=109d0c01a18b69054b0492c397c7674cb29bbbead523c589022977737ea5f758",
         "type": "image/png"
       }
     ],
