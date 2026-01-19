@@ -1,14 +1,14 @@
 {
-  "name": "Nova Star",
-  "symbol": "NOVA",
-  "description": "Explosive growth potential",
-  "image": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/nova.png",
-  "external_url": "https://novastar.finance",
+  "name": "Reserved SOL",
+  "symbol": "rSOL",
+  "description": "The community coin of Solana",
+  "image": "https://media.discordapp.net/attachments/1125212571197247548/1462711845260497056/solicon_2_7.png?ex=696f300f&is=696dde8f&hm=819c8b4fd59715d35adca8b282348bd86cfcdb3771c6d49c0d4c311c8735b1f7&=&format=webp&quality=lossless",
+  "external_url": "https://bonkcoin.com",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/web3solana-projects/coins/main/images/nova.png",
+        "uri": "https://media.discordapp.net/attachments/1125212571197247548/1462711845260497056/solicon_2_7.png?ex=696f300f&is=696dde8f&hm=819c8b4fd59715d35adca8b282348bd86cfcdb3771c6d49c0d4c311c8735b1f7&=&format=webp&quality=lossless",
         "type": "image/png"
       }
     ],
