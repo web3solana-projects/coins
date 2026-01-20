@@ -1,9 +1,9 @@
 {
-  "name": "Allocated Asset",
-  "symbol": "ASSET",
-  "description": "Stardust rewards for holders",
+  "name": "Protocol vault",
+  "symbol": "VAULT",
+  "description": "Fortune favors the hodlers",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://cosmicdust.space",
+  "external_url": "https://luckyclover.sol",
   "attributes": [],
   "properties": {
     "files": [
