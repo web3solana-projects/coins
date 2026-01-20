@@ -1,9 +1,9 @@
 {
-  "name": "Status Update",
-  "symbol": "Update",
-  "description": "Golden rewards for phantom wallet users",
+  "name": "Allocated Asset",
+  "symbol": "ASSET",
+  "description": "Stardust rewards for holders",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://wbtc.network",
+  "external_url": "https://cosmicdust.space",
   "attributes": [],
   "properties": {
     "files": [
