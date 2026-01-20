@@ -1,9 +1,9 @@
 {
-  "name": "Pending",
-  "symbol": "Pending",
-  "description": "Liquid staking derivative for Solana validators",
+  "name": "Reserved Fund",
+  "symbol": "rpSOL",
+  "description": "Illuminating the Solana ecosystem",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://stake.solana.com",
+  "external_url": "https://neonglow.sol",
   "attributes": [],
   "properties": {
     "files": [
