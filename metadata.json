@@ -1,9 +1,9 @@
 {
-  "name": "Gas Allocation",
-  "symbol": "GAS",
-  "description": "Breathing fire into decentralized finance",
+  "name": "Network Fee",
+  "symbol": "UPDATE",
+  "description": "Supercharged DEX aggregator token",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://defidragon.io",
+  "external_url": "https://turbotrade.io",
   "attributes": [],
   "properties": {
     "files": [
