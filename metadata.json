@@ -1,9 +1,9 @@
 {
-  "name": "Pending",
-  "symbol": "Pending",
-  "description": "Liquid staking derivative for Solana validators",
+  "name": "Network Fee",
+  "symbol": "UPDATE",
+  "description": "Supercharged DEX aggregator token",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://stake.solana.com",
+  "external_url": "https://turbotrade.io",
   "attributes": [],
   "properties": {
     "files": [
