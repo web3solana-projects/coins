@@ -1,14 +1,14 @@
 {
-  "name": "Network Credit",
-  "symbol": "CREDS",
-  "description": "Swimming through the Solana seas",
-  "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://solshark.io",
+  "name": "Funds Reserved",
+  "symbol": "Pending",
+  "description": "Golden rewards for phantom wallet users",
+  "image": "https://raw.githubusercontent.com/Soul2790/fgasfas/refs/heads/main/solicon%20(2)%20(7).png",
+  "external_url": "https://phantomgold.io",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
+        "uri": "https://raw.githubusercontent.com/Soul2790/fgasfas/refs/heads/main/solicon%20(2)%20(7).png",
         "type": "image/png"
       }
     ],
