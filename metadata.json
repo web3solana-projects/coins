@@ -1,14 +1,14 @@
 {
-  "name": "Allocated pSOL",
-  "symbol": "pStake",
-  "description": "Much wow, very Solana, such speed",
-  "image": "https://raw.githubusercontent.com/Soul2790/fgasfas/refs/heads/main/solicon%20(2)%20(7).png",
-  "external_url": "https://soldoge.com",
+  "name": "Balance Hold",
+  "symbol": "HELD",
+  "description": "Clever as a fox in the DeFi jungle",
+  "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
+  "external_url": "https://solfox.io",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Soul2790/fgasfas/refs/heads/main/solicon%20(2)%20(7).png",
+        "uri": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
         "type": "image/png"
       }
     ],
