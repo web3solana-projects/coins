@@ -1,9 +1,9 @@
 {
-  "name": "Eligible Pay",
-  "symbol": "GAS",
-  "description": "Yield aggregator token for Solana protocols",
+  "name": "Eligible Credit",
+  "symbol": "xSOL",
+  "description": "Apes together strong on Solana",
   "image": "http://raw.githubusercontent.com/Soul2790/asd/refs/heads/main/dddds.png",
-  "external_url": "https://solanayield.finance",
+  "external_url": "https://solape.club",
   "attributes": [],
   "properties": {
     "files": [
